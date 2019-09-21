@@ -1,0 +1,31 @@
+/* Add here all your CSS customizations */
+
+.col-8.col-lg-6.p-1.z-index-1.main-cat-index {
+    height: 388px;
+}
+.col-8.col-lg-6.p-1.z-index-1.main-cat-index .image-frame {
+    height: 100%;
+}
+.col-8.col-lg-6.p-1.z-index-1.main-cat-index img {
+    height: 100%;
+}	
+
+.col-lg-3.other-cat {
+    height: 380px;
+}
+.col-lg-3.other-cat img {
+    height: 186px;
+    width: 100%;
+}
+section.section.py-3.dir-ltr.category-banner {
+    padding-top: 52px !important;
+    padding-bottom: 52px !important;
+	background: #ffffff;
+}
+
+.dropdown-mega-content.container{
+	    background-repeat: no-repeat;
+    background-size: 199px;
+	background-image : url('../img/sm_5add55fc31770.png');
+	background-position-y: bottom;
+}

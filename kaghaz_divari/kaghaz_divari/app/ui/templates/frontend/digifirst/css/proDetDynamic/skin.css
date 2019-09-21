@@ -1,0 +1,173 @@
+.product-options{
+	margin-top: 0px;
+}
+.product-view .product-info{
+	margin-top: 0;
+}
+
+.ddcerceve .input-box label{
+	margin-bottom: 1px;
+}
+.dtcerceve{
+
+}
+.product-options .dtcerceve label{
+	display: block;
+	line-height: 24px;
+	color: #313131;
+	font-size: 16px;
+}
+.block-calculator,
+.dtcerceve { 
+	height: auto;
+	border-top: 1px dashed #ddd;
+	padding: 10px 0 0 0 !important;
+	margin-bottom: 0;
+	margin-top: 6px;
+}
+.block.block-calculator:last-child {
+    padding-top: 2px;
+    margin-top: 6px;
+}
+.block-calculator .block-content,
+.ddcerceve {
+	border-left: 4px solid #f5f5f5;
+    padding: 10px;
+    margin: 0 0 0 9px !important;
+}
+.block-calculator .block-title{
+	margin-bottom: 3px;
+}
+.block-calculator .block-title span{
+	line-height: 24px;
+}
+.block-calculator small.help:hover,
+.dtcerceve small.help{
+	cursor: pointer;
+}
+.block-calculator small.help,
+.dtcerceve small.help
+{
+    display: inline-block;
+    background-image: -webkit-gradient(linear,50% 0%,50% 100%,color-stop(0%,#ffffff),color-stop(100%,#ededed));
+    background-image: -webkit-linear-gradient(#ffffff,#ededed);
+    background-image: -moz-linear-gradient(#ffffff,#ededed);
+    background-image: -o-linear-gradient(#ffffff,#ededed);
+    background-image: linear-gradient(#ffffff,#ededed);
+    -webkit-border-radius: 10px 10px;
+    -moz-border-radius: 10px / 10px;
+    border-radius: 10px / 10px;
+    border: 1px solid #d7d7d7;
+    color: #555;
+    text-shadow: white 0px 1px 0px;
+    font-size: 12px;
+    padding: 4px 10px;
+    text-decoration: none;
+    text-align: right;
+    float: right;
+    font-weight: 600;
+    line-height: 14px;
+}
+.block-calculator small.number,
+.dtcerceve small.number{
+	background-color: #85498c;
+	width:22px;
+	height: 22px;
+	margin-right: 5px;
+	border-radius: 22px;
+	color: #fff;
+	display: block;
+	float: left;
+	text-align: center;
+	line-height: 22px;
+}
+.block-calculator .aspratio,
+.block-calculator .mirror,
+.block-calculator .grayscale
+{
+	text-align: right;
+	line-height: 20px;
+}
+.grayscale img{
+    filter: url("data:image/svg+xml;utf8,&lt;svg xmlns=\'http://www.w3.org/2000/svg\'&gt;&lt;filter id=\'grayscale\'&gt;&lt;feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/&gt;&lt;/filter&gt;&lt;/svg&gt;#grayscale"); /* Firefox 10+, Firefox on Android */
+    filter: gray; /* IE6-9 */
+    -webkit-filter: grayscale(100%); /* Chrome 19+, Safari 6+, Safari 6+ iOS */	
+}
+.calculator-wrapper {clear: both;}
+.inputi {clear: both;}
+.inputi .inputi-f {float: left; width: 45%; text-align: center; margin-right: 5%;}
+.inputi .inputi-f:last-child{ float: right; margin-left: 5%; margin-right: 0;}
+.inputi .inputi-f-s {float: left; width: 45%; text-align: center;}
+.buttoni {clear: both; text-align: center; padding-top: 10px;}
+.texti {clear: both; padding-top: 10px;}
+.inneri { text-align: center;}
+.tierRow {background-color: #FDFCDC !important; border-color: #F4F4F4;font-weight: bold;}
+.total-pricei {text-align: center;}
+.inputi .inputi-f input{
+	width: 100%;
+	text-align: center;
+	padding: 5px 0px;
+	border-radius: 4px;
+	background: #f0dded;
+	border:1px solid #9d56a5;
+	font-weight: 700;
+	font-size: 17px;
+}
+.inputi p.inputi-f{
+	margin-bottom: 4px;
+	font-weight: 700;
+	color: #333;
+	text-align: right;
+}
+dt.crop-image,
+dd input.crop-image,
+dt.crop_image,
+dd input.crop_image,
+dt.yukseklik,
+dd input.yukseklik,
+dt.genislik,
+dd input.genislik{
+	display: none;
+}
+
+
+.product-view .etalage_thumb_image,
+.product-view .crop_image{
+	/*width:100%;
+	height: auto; */
+}
+
+.col1-layout .product-options-bottom{
+	margin-top: 6px;
+}
+
+.col1-layout .product-options-bottom .regular-price{
+	text-align: center;
+    display: block;
+    border-bottom: 1px dashed #dedede;
+    padding-bottom: 7px;
+}
+
+.clr60 .block-calculator small.number, 
+.clr60 .dtcerceve small.number{
+	background-color: #ee2260;
+}
+.clr60 .inputi .inputi-f input{
+	border:1px solid #f28baa;
+	background: #f2e0e5;
+
+}
+
+small.help.help_1 a,
+small.help.help_2 a,
+small.help.help_3 a,
+small.help.help_4 a{
+	display: block !important;
+}
+.pr .block-calculator .aspratio,
+.pr .block-calculator .mirror,
+.pr .block-calculator .grayscale
+{
+	text-align: right;
+	line-height: 20px;
+}

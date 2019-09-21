@@ -1,0 +1,1326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="765184d4-2e7b-4673-a79c-0a83b526b8fe" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-366202712">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="288" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="288" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="php" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PHP" value="10" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="poyan_shop" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/ui/frontend/shop/product/_component/view/detailProduct.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="805" column="57" lean-forward="true" selection-start-line="805" selection-start-column="31" selection-end-line="805" selection-end-column="57" />
+              <folding>
+                <element signature="n#div#0;n#main#0;n#!!top" />
+                <element signature="n#ol#0;n#div#0;n#main#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#main#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#main#0;n#!!top" />
+                <element signature="n#div#2;n#div#0;n#div#1;n#div#0;n#div#1;n#main#0;n#!!top" />
+                <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/ui/frontend/shop/product/_component/view/detailProductDynamic.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="642" column="73" selection-start-line="642" selection-start-column="60" selection-end-line="642" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/ui/templates/frontend/digifirst/pages/parts/headerDetailsProductDynamic.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2346">
+              <caret line="138" column="3" selection-start-line="138" selection-start-column="3" selection-end-line="138" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/ui/frontend/shop/order/_component/orderController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="423">
+              <caret line="452" column="60" lean-forward="true" selection-start-line="452" selection-start-column="60" selection-end-line="452" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/ui/frontend/shop/order/_component/orderView.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="401" column="9" lean-forward="true" selection-start-line="401" selection-start-column="9" selection-end-line="401" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/ui/frontend/shop/product/_component/view/amazingProducts.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/ui/frontend/shop/product/_component/view/concessionProduct.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/ui/frontend/shop/product/_component/view/detailProductMobile.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/ui/frontend/shop/product/_component/productController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="353" column="8" selection-start-line="353" selection-start-column="8" selection-end-line="353" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/ui/frontend/shop/product/_component/productView.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="1177" column="18" selection-start-line="1177" selection-start-column="16" selection-end-line="1177" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>checkGalleryExist</find>
+      <find>createNewFolder</find>
+      <find>createFolder</find>
+      <find>send</find>
+      <find>orderSave</find>
+      <find>renderSendAddToCart</find>
+      <find>tab</find>
+      <find>قیمت</find>
+      <find>displayShow</find>
+      <find>orderSaveEdit</find>
+      <find>product</find>
+      <find>\f\pr</find>
+      <find>productSave</find>
+      <find>col-sidebar</find>
+      <find>basketSidebar</find>
+      <find>ready</find>
+      <find>سبد</find>
+      <find>read</find>
+      <find>defaul</find>
+      <find>site</find>
+      <find>siteUrl</find>
+      <find>hidden</find>
+      <find>jQuery</find>
+      <find>this</find>
+      <find>pr</find>
+      <find>getBasketSidebar</find>
+      <find>basketOfOrder</find>
+      <find>addToCart</find>
+      <find>prepareSubmit</find>
+      <find>sendAddToCart</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>h3</replace>
+      <replace />
+      <replace>#242f3e</replace>
+      <replace>Wholesaler</replace>
+      <replace>Shopkeeper</replace>
+      <replace>shopkeeper</replace>
+      <replace>#ff7f05</replace>
+      <replace>wholesaler</replace>
+      <replace>colleague</replace>
+      <replace>Colleague</replace>
+      <replace>users</replace>
+      <replace>normUsers</replace>
+      <replace>sellers</replace>
+      <replace>basketOff</replace>
+      <replace>discountCode</replace>
+      <replace>type_user</replace>
+      <replace>member_Upgrade_tbl</replace>
+      <replace>member</replace>
+      <replace>کاربری</replace>
+      <replace>Member</replace>
+      <replace>memberUpgrade</replace>
+      <replace>ریال</replace>
+      <replace>#f24e3d</replace>
+      <replace>اندازه</replace>
+      <replace>Material</replace>
+      <replace>material</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/ui/templates/frontend/digifirst/pages/parts/headerProduct.php" />
+        <option value="$PROJECT_DIR$/config/main.php" />
+        <option value="$PROJECT_DIR$/app/ui/backend/shop/category/_component/categoryController.php" />
+        <option value="$PROJECT_DIR$/app/dal/shop/category/_component/categoryMapper.php" />
+        <option value="$PROJECT_DIR$/app/ui/backend/shop/category/_component/categoryView.php" />
+        <option value="$PROJECT_DIR$/app/ui/backend/shop/category/_component/view/categoryAdd.php" />
+        <option value="$PROJECT_DIR$/app/ui/backend/shop/product/_component/view/lang/fa.php" />
+        <option value="$PROJECT_DIR$/app/ui/backend/shop/guarantee/_component/guaranteeController.php" />
+        <option value="$PROJECT_DIR$/app/ui/backend/shop/material/_component/materialController.php" />
+        <option value="$PROJECT_DIR$/app/ui/backend/shop/material/_component/view/lang/fa.php" />
+        <option value="$PROJECT_DIR$/app/ui/backend/shop/material/_component/view/materialAdd.php" />
+        <option value="$PROJECT_DIR$/app/ui/backend/shop/material/_component/view/materialList.php" />
+        <option value="$PROJECT_DIR$/app/ui/backend/shop/material/_component/materialView.php" />
+        <option value="$PROJECT_DIR$/app/service/shop/material/_component/materialService.php" />
+        <option value="$PROJECT_DIR$/app/ui/backend/shop/product/_component/productView.php" />
+        <option value="$PROJECT_DIR$/app/dal/shop/material/_component/materialMapper.php" />
+        <option value="$PROJECT_DIR$/app/ui/templates/frontend/digifirst/pages/parts/footerNew.php" />
+        <option value="$PROJECT_DIR$/app/ui/templates/frontend/digifirst/pages/parts/headerNew.php" />
+        <option value="$PROJECT_DIR$/app/ui/templates/frontend/digifirst/pages/pageContent.php" />
+        <option value="$PROJECT_DIR$/app/ui/templates/frontend/digifirst/css/style.css" />
+        <option value="$PROJECT_DIR$/app/ui/templates/frontend/digifirst/url.php" />
+        <option value="$PROJECT_DIR$/app/ui/templates/frontend/digifirst/pages/parts/headerDetailsProductDynamic.php" />
+        <option value="$PROJECT_DIR$/app/ui/templates/frontend/digifirst/pages/pageContentDetailsProduct.php" />
+        <option value="$PROJECT_DIR$/app/ui/templates/frontend/digifirst/js/proDetDynamic/et_currencymanager_round.js" />
+        <option value="$PROJECT_DIR$/app/ui/templates/frontend/digifirst/pages/parts/footerProduct.php" />
+        <option value="$PROJECT_DIR$/app/ui/frontend/shop/product/_component/view/detailProduct.php" />
+        <option value="$PROJECT_DIR$/app/ui/templates/frontend/digifirst/pages/parts/footerDetailsProduct.php" />
+        <option value="$PROJECT_DIR$/app/ui/templates/frontend/digifirst/css/proDetDynamic/cropper.css" />
+        <option value="$PROJECT_DIR$/app/ui/templates/frontend/digifirst/css/skin.css" />
+        <option value="$PROJECT_DIR$/app/ui/frontend/shop/product/_component/productView.php" />
+        <option value="$PROJECT_DIR$/app/ui/templates/frontend/digifirst/js/proDetDynamic/crop.js" />
+        <option value="$PROJECT_DIR$/app/dal/core/fileManager/_component/fileManagerMapper1.php" />
+        <option value="$PROJECT_DIR$/app/dal/core/fileManager/_component/fileManagerMapper.php" />
+        <option value="$PROJECT_DIR$/ifm/resize.php" />
+        <option value="$PROJECT_DIR$/app/service/core/fileManager/_component/fileManagerService.php" />
+        <option value="$PROJECT_DIR$/app/ui/templates/frontend/digifirst/css/proDetDynamic/skin.css" />
+        <option value="$PROJECT_DIR$/app/ui/templates/frontend/digifirst/css/style.min.css" />
+        <option value="$PROJECT_DIR$/app/ui/templates/frontend/digifirst/css/proDetDynamic/rtl.css" />
+        <option value="$PROJECT_DIR$/app/dal/core/fileManager/_component/folderManager.php" />
+        <option value="$PROJECT_DIR$/app/dal/core/fileManager/_component/fileManager.php" />
+        <option value="$PROJECT_DIR$/app/dal/shop/order/_component/orderMapper.php" />
+        <option value="$PROJECT_DIR$/app/service/shop/order/_component/orderService.php" />
+        <option value="$PROJECT_DIR$/app/ui/backend/shop/product/_component/view/productAdd.php" />
+        <option value="$PROJECT_DIR$/app/ui/backend/shop/product/_component/productController.php" />
+        <option value="$PROJECT_DIR$/app/service/shop/product/_component/productService.php" />
+        <option value="$PROJECT_DIR$/app/dal/shop/product/_component/productMapper.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/app/ui/templates/frontend/digifirst/pages/parts/headerDetailsProduct.php" />
+        <option value="$PROJECT_DIR$/app/ui/frontend/shop/order/_component/orderController.php" />
+        <option value="$PROJECT_DIR$/app/ui/frontend/shop/product/_component/view/detailProductDynamic.php" />
+        <option value="$PROJECT_DIR$/app/ui/frontend/shop/product/_component/productController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/app/ui/backend/core/code/_component/view/lib/jstree/package.json" />
+      <path value="$PROJECT_DIR$/app/ui/backend/core/rbac/_component/view/lib/jstree/package.json" />
+      <path value="$PROJECT_DIR$/app/ui/backend/core/template/_component/view/lib/jstree/package.json" />
+      <path value="$PROJECT_DIR$/app/ui/templates/backend/default/lib/datatables/package.json" />
+      <path value="$PROJECT_DIR$/app/ui/templates/backend/default/lib/datatables132/package.json" />
+      <path value="$PROJECT_DIR$/app/ui/templates/backend/login/lib/datatables/package.json" />
+      <path value="$PROJECT_DIR$/app/ui/templates/frontend/base/js/datatables/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1379" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="dal" type="cbb8eebc:String" user="dal" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="dal" type="cbb8eebc:String" user="dal" />
+              <item name="member" type="cbb8eebc:String" user="member" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="dal" type="cbb8eebc:String" user="dal" />
+              <item name="member" type="cbb8eebc:String" user="member" />
+              <item name="_component" type="cbb8eebc:String" user="_component" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="dal" type="cbb8eebc:String" user="dal" />
+              <item name="member" type="cbb8eebc:String" user="member" />
+              <item name="memberUpgrade" type="cbb8eebc:String" user="memberUpgrade" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="service" type="cbb8eebc:String" user="service" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="service" type="cbb8eebc:String" user="service" />
+              <item name="member" type="cbb8eebc:String" user="member" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="service" type="cbb8eebc:String" user="service" />
+              <item name="member" type="cbb8eebc:String" user="member" />
+              <item name="memberSetting" type="cbb8eebc:String" user="memberSetting" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="service" type="cbb8eebc:String" user="service" />
+              <item name="member" type="cbb8eebc:String" user="member" />
+              <item name="memberSetting" type="cbb8eebc:String" user="memberSetting" />
+              <item name="_component" type="cbb8eebc:String" user="_component" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="ui" type="cbb8eebc:String" user="ui" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="ui" type="cbb8eebc:String" user="ui" />
+              <item name="backend" type="cbb8eebc:String" user="backend" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="ui" type="cbb8eebc:String" user="ui" />
+              <item name="backend" type="cbb8eebc:String" user="backend" />
+              <item name="member" type="cbb8eebc:String" user="member" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="ui" type="cbb8eebc:String" user="ui" />
+              <item name="backend" type="cbb8eebc:String" user="backend" />
+              <item name="member" type="cbb8eebc:String" user="member" />
+              <item name="memberList" type="cbb8eebc:String" user="memberList" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="ui" type="cbb8eebc:String" user="ui" />
+              <item name="backend" type="cbb8eebc:String" user="backend" />
+              <item name="member" type="cbb8eebc:String" user="member" />
+              <item name="memberList" type="cbb8eebc:String" user="memberList" />
+              <item name="sellers" type="cbb8eebc:String" user="sellers" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="ui" type="cbb8eebc:String" user="ui" />
+              <item name="backend" type="cbb8eebc:String" user="backend" />
+              <item name="member" type="cbb8eebc:String" user="member" />
+              <item name="memberList" type="cbb8eebc:String" user="memberList" />
+              <item name="sellers" type="cbb8eebc:String" user="sellers" />
+              <item name="_component" type="cbb8eebc:String" user="_component" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="ui" type="cbb8eebc:String" user="ui" />
+              <item name="backend" type="cbb8eebc:String" user="backend" />
+              <item name="member" type="cbb8eebc:String" user="member" />
+              <item name="memberList" type="cbb8eebc:String" user="memberList" />
+              <item name="sellers" type="cbb8eebc:String" user="sellers" />
+              <item name="_component" type="cbb8eebc:String" user="_component" />
+              <item name="view" type="cbb8eebc:String" user="view" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="ui" type="cbb8eebc:String" user="ui" />
+              <item name="backend" type="cbb8eebc:String" user="backend" />
+              <item name="member" type="cbb8eebc:String" user="member" />
+              <item name="memberSetting" type="cbb8eebc:String" user="memberSetting" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="ui" type="cbb8eebc:String" user="ui" />
+              <item name="backend" type="cbb8eebc:String" user="backend" />
+              <item name="member" type="cbb8eebc:String" user="member" />
+              <item name="memberSetting" type="cbb8eebc:String" user="memberSetting" />
+              <item name="_component" type="cbb8eebc:String" user="_component" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="ui" type="cbb8eebc:String" user="ui" />
+              <item name="backend" type="cbb8eebc:String" user="backend" />
+              <item name="member" type="cbb8eebc:String" user="member" />
+              <item name="memberSetting" type="cbb8eebc:String" user="memberSetting" />
+              <item name="_component" type="cbb8eebc:String" user="_component" />
+              <item name="view" type="cbb8eebc:String" user="view" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="ui" type="cbb8eebc:String" user="ui" />
+              <item name="backend" type="cbb8eebc:String" user="backend" />
+              <item name="member" type="cbb8eebc:String" user="member" />
+              <item name="memberSetting" type="cbb8eebc:String" user="memberSetting" />
+              <item name="_component" type="cbb8eebc:String" user="_component" />
+              <item name="view" type="cbb8eebc:String" user="view" />
+              <item name="lang" type="cbb8eebc:String" user="lang" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="ui" type="cbb8eebc:String" user="ui" />
+              <item name="backend" type="cbb8eebc:String" user="backend" />
+              <item name="shop" type="cbb8eebc:String" user="shop" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="ui" type="cbb8eebc:String" user="ui" />
+              <item name="backend" type="cbb8eebc:String" user="backend" />
+              <item name="shop" type="cbb8eebc:String" user="shop" />
+              <item name="shopSetting" type="cbb8eebc:String" user="shopSetting" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="ui" type="cbb8eebc:String" user="ui" />
+              <item name="backend" type="cbb8eebc:String" user="backend" />
+              <item name="shop" type="cbb8eebc:String" user="shop" />
+              <item name="shopSetting" type="cbb8eebc:String" user="shopSetting" />
+              <item name="_component" type="cbb8eebc:String" user="_component" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="ui" type="cbb8eebc:String" user="ui" />
+              <item name="backend" type="cbb8eebc:String" user="backend" />
+              <item name="shop" type="cbb8eebc:String" user="shop" />
+              <item name="shopSetting" type="cbb8eebc:String" user="shopSetting" />
+              <item name="_component" type="cbb8eebc:String" user="_component" />
+              <item name="view" type="cbb8eebc:String" user="view" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="ui" type="cbb8eebc:String" user="ui" />
+              <item name="frontend" type="cbb8eebc:String" user="frontend" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="ui" type="cbb8eebc:String" user="ui" />
+              <item name="frontend" type="cbb8eebc:String" user="frontend" />
+              <item name="shop" type="cbb8eebc:String" user="shop" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="ui" type="cbb8eebc:String" user="ui" />
+              <item name="frontend" type="cbb8eebc:String" user="frontend" />
+              <item name="shop" type="cbb8eebc:String" user="shop" />
+              <item name="product" type="cbb8eebc:String" user="product" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="ui" type="cbb8eebc:String" user="ui" />
+              <item name="frontend" type="cbb8eebc:String" user="frontend" />
+              <item name="shop" type="cbb8eebc:String" user="shop" />
+              <item name="product" type="cbb8eebc:String" user="product" />
+              <item name="_component" type="cbb8eebc:String" user="_component" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="ui" type="cbb8eebc:String" user="ui" />
+              <item name="frontend" type="cbb8eebc:String" user="frontend" />
+              <item name="shop" type="cbb8eebc:String" user="shop" />
+              <item name="product" type="cbb8eebc:String" user="product" />
+              <item name="_component" type="cbb8eebc:String" user="_component" />
+              <item name="view" type="cbb8eebc:String" user="view" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="ui" type="cbb8eebc:String" user="ui" />
+              <item name="frontend" type="cbb8eebc:String" user="frontend" />
+              <item name="shop" type="cbb8eebc:String" user="shop" />
+              <item name="product" type="cbb8eebc:String" user="product" />
+              <item name="_component" type="cbb8eebc:String" user="_component" />
+              <item name="view" type="cbb8eebc:String" user="view" />
+              <item name="lang" type="cbb8eebc:String" user="lang" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="ui" type="cbb8eebc:String" user="ui" />
+              <item name="templates" type="cbb8eebc:String" user="templates" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="ui" type="cbb8eebc:String" user="ui" />
+              <item name="templates" type="cbb8eebc:String" user="templates" />
+              <item name="frontend" type="cbb8eebc:String" user="frontend" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="ui" type="cbb8eebc:String" user="ui" />
+              <item name="templates" type="cbb8eebc:String" user="templates" />
+              <item name="frontend" type="cbb8eebc:String" user="frontend" />
+              <item name="digifirst" type="cbb8eebc:String" user="digifirst" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="ui" type="cbb8eebc:String" user="ui" />
+              <item name="templates" type="cbb8eebc:String" user="templates" />
+              <item name="frontend" type="cbb8eebc:String" user="frontend" />
+              <item name="digifirst" type="cbb8eebc:String" user="digifirst" />
+              <item name="css" type="cbb8eebc:String" user="css" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="netal" type="cbb8eebc:String" user="netal" />
+              <item name="app" type="cbb8eebc:String" user="app" />
+              <item name="ui" type="cbb8eebc:String" user="ui" />
+              <item name="templates" type="cbb8eebc:String" user="templates" />
+              <item name="frontend" type="cbb8eebc:String" user="frontend" />
+              <item name="digifirst" type="cbb8eebc:String" user="digifirst" />
+              <item name="pages" type="cbb8eebc:String" user="pages" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kaghaz_divari" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaghaz_divari" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaghaz_divari" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaghaz_divari" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaghaz_divari" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaghaz_divari" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaghaz_divari" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaghaz_divari" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaghaz_divari" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaghaz_divari" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaghaz_divari" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaghaz_divari" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaghaz_divari" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaghaz_divari" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="_component" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaghaz_divari" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaghaz_divari" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaghaz_divari" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaghaz_divari" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+              <item name="_component" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaghaz_divari" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaghaz_divari" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+              <item name="_component" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaghaz_divari" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaghaz_divari" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaghaz_divari" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaghaz_divari" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaghaz_divari" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaghaz_divari" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="digifirst" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaghaz_divari" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaghaz_divari" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="digifirst" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaghaz_divari" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaghaz_divari" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="digifirst" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="parts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kaghaz_divari" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kaghaz_divari" type="462c0819:PsiDirectoryNode" />
+              <item name="upload" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Z:\saboor\app\service\cms" />
+      <recent name="Z:\saboor\app\ui\frontend\shop\order\_component\view" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="Z:\kaghaz_divari\app\dal\core\fileManager\_component" />
+      <recent name="Z:\kaghaz_divari\app\ui\templates\frontend\digifirst\img" />
+      <recent name="Z:\kaghaz_divari\app\ui\templates\frontend\digifirst\js\proDetDynamic" />
+      <recent name="Z:\kaghaz_divari\app\ui\templates\frontend\digifirst\css\proDetDynamic" />
+      <recent name="Z:\kaghaz_divari\app\ui\templates\frontend\digifirst\pages\parts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="765184d4-2e7b-4673-a79c-0a83b526b8fe" name="Default" comment="" />
+      <created>1536378972728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536378972728</updated>
+      <workItem from="1536378978416" duration="4635000" />
+      <workItem from="1536383690393" duration="3794000" />
+      <workItem from="1536388755966" duration="17628000" />
+      <workItem from="1536464595647" duration="22868000" />
+      <workItem from="1536551841570" duration="2217000" />
+      <workItem from="1537250161888" duration="924000" />
+      <workItem from="1537251542648" duration="7484000" />
+      <workItem from="1537259055221" duration="7112000" />
+      <workItem from="1537604828057" duration="13295000" />
+      <workItem from="1537678687382" duration="3718000" />
+      <workItem from="1537682475440" duration="20130000" />
+      <workItem from="1537765055848" duration="24129000" />
+      <workItem from="1537851303333" duration="18957000" />
+      <workItem from="1537874639964" duration="5237000" />
+      <workItem from="1537938060115" duration="21026000" />
+      <workItem from="1537964150917" duration="1204000" />
+      <workItem from="1537965955323" duration="1041000" />
+      <workItem from="1538023745163" duration="14229000" />
+      <workItem from="1538198968621" duration="23618000" />
+      <workItem from="1538226343698" duration="254000" />
+      <workItem from="1538283898858" duration="7577000" />
+      <workItem from="1538297300383" duration="637000" />
+      <workItem from="1538904465281" duration="19000" />
+      <workItem from="1538904859590" duration="9326000" />
+      <workItem from="1538974960886" duration="24226000" />
+      <workItem from="1539060714817" duration="23305000" />
+      <workItem from="1539147058815" duration="10070000" />
+      <workItem from="1539158912015" duration="4241000" />
+      <workItem from="1539168609589" duration="5473000" />
+      <workItem from="1539233104607" duration="11234000" />
+      <workItem from="1539411011775" duration="709000" />
+      <workItem from="1539418296111" duration="12239000" />
+      <workItem from="1539432809747" duration="1351000" />
+      <workItem from="1539498339516" duration="697000" />
+      <workItem from="1539501690187" duration="1777000" />
+      <workItem from="1539678949023" duration="408000" />
+      <workItem from="1539839758895" duration="12415000" />
+      <workItem from="1540015050227" duration="7297000" />
+      <workItem from="1540028016388" duration="661000" />
+      <workItem from="1540038118443" duration="1363000" />
+      <workItem from="1540097240832" duration="1687000" />
+      <workItem from="1540106151589" duration="286000" />
+      <workItem from="1540106768684" duration="2514000" />
+      <workItem from="1540118853569" duration="679000" />
+      <workItem from="1540191739871" duration="1029000" />
+      <workItem from="1540357776995" duration="1811000" />
+      <workItem from="1540450471872" duration="1378000" />
+      <workItem from="1540615869517" duration="376000" />
+      <workItem from="1541049722245" duration="112000" />
+      <workItem from="1541233644040" duration="7845000" />
+      <workItem from="1541242793516" duration="6388000" />
+      <workItem from="1541307723108" duration="16110000" />
+      <workItem from="1541394336914" duration="5982000" />
+      <workItem from="1541402862342" duration="4109000" />
+      <workItem from="1541507386773" duration="857000" />
+      <workItem from="1541915249451" duration="1437000" />
+      <workItem from="1541939806865" duration="1587000" />
+      <workItem from="1541999268398" duration="1104000" />
+      <workItem from="1542086294655" duration="21918000" />
+      <workItem from="1542170760745" duration="2363000" />
+      <workItem from="1542531931843" duration="4161000" />
+      <workItem from="1542691935339" duration="13584000" />
+      <workItem from="1542776466085" duration="15944000" />
+      <workItem from="1542861786329" duration="11929000" />
+      <workItem from="1543040650812" duration="11985000" />
+      <workItem from="1543052666738" duration="9840000" />
+      <workItem from="1543213994009" duration="5071000" />
+      <workItem from="1543219491962" duration="5682000" />
+      <workItem from="1543257102823" duration="4752000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="514587000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33489934" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.2496382" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.07114094" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5034722" side_tool="true" weight="0.17057292" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Command Line Tools Console" order="9" weight="0.147651" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" order="11" sideWeight="0.4965278" visible="true" weight="0.1704698" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.30083567" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.02013889" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2375" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.2496382" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.0" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5034722" side_tool="true" weight="0.17057292" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" order="10" sideWeight="0.4965278" visible="true" weight="0.1704698" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.30083567" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.02013889" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/ui/frontend/member/_component/view/account.php</url>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/ui/frontend/shop/product/_component/view/detailProduct.php</url>
+          <line>61</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/ui/templates/frontend/digifirst/pages/parts/headerNew.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ui/templates/frontend/digifirst/pages/parts/footerProduct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ui/templates/frontend/digifirst/pages/pageContent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ui/templates/frontend/digifirst/js/proDetDynamic/product_options.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ui/templates/frontend/digifirst/pages/parts/footerNew.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ui/templates/frontend/digifirst/css/proDetDynamic/cropper.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ui/templates/frontend/digifirst/css/skin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="160" column="10" selection-start-line="160" selection-start-column="6" selection-end-line="160" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dal/shop/material/_component/materialMapper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="126" column="25" selection-start-line="126" selection-start-column="20" selection-end-line="126" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ui/templates/frontend/digifirst/js/proDetDynamic/crop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="262" selection-start-line="262" selection-end-line="262" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ui/templates/frontend/digifirst/pages/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ui/frontend/cms/news/_component/view/news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/gd/gd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="822" column="59" selection-start-line="822" selection-start-column="53" selection-end-line="822" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dal/core/fileManager/_component/fileManagerMapper1.php" />
+    <entry file="file://$PROJECT_DIR$/app/dal/core/fileManager/_component/fileManager1.php" />
+    <entry file="file://$PROJECT_DIR$/app/ui/frontend/fileManager/_component/view/uploadForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="198" column="66" lean-forward="true" selection-start-line="198" selection-start-column="40" selection-end-line="198" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ui/templates/frontend/digifirst/js/jquery.magnific-popup.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="3" column="12383" selection-start-line="3" selection-start-column="12383" selection-end-line="3" selection-end-column="12383" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dal/core/gallery/_component/galleryMapper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-612" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/service/shop/product/_component/productView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="701" column="80" selection-start-line="701" selection-start-column="73" selection-end-line="701" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ui/templates/frontend/digifirst/css/proDetDynamic/skin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="102" column="9" selection-start-line="102" selection-start-column="9" selection-end-line="102" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ui/templates/frontend/digifirst/css/style.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13209">
+          <caret line="777" column="95" selection-start-line="777" selection-start-column="95" selection-end-line="777" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ifm/resize.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="65" column="20" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ui/templates/frontend/digifirst/css/proDetDynamic/rtl.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="685" column="1" selection-start-line="685" selection-start-column="1" selection-end-line="685" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ifm/ttt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="121" column="26" selection-start-line="121" selection-start-column="26" selection-end-line="121" selection-end-column="26" />
+          <folding>
+            <element signature="e#739#3619#0#PHP" />
+            <element signature="e#2261#3613#0#PHP" />
+            <element signature="e#3625#4089#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ifm/cacheStorageEngine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="44" column="20" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/service/core/gallery/_component/galleryService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="55" column="54" selection-start-line="55" selection-start-column="48" selection-end-line="55" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ifm/sqlStorageEngine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="393" column="13" selection-start-line="393" selection-start-column="13" selection-end-line="393" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/service/shop/order/_component/orderService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="127" column="60" selection-start-line="127" selection-start-column="47" selection-end-line="127" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dal/shop/order/_component/orderMapper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="431" column="33" selection-start-line="431" selection-start-column="20" selection-end-line="431" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/service/core/fileManager/_component/fileManagerService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="67" column="15" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dal/core/fileManager/_component/fileManagerMapper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4420">
+          <caret line="260" column="40" lean-forward="true" selection-start-line="260" selection-start-column="40" selection-end-line="260" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ui/backend/shop/product/_component/productController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="76" selection-start-line="42" selection-start-column="65" selection-end-line="42" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/service/shop/product/_component/productService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="62" column="65" selection-start-line="62" selection-start-column="54" selection-end-line="62" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ui/backend/shop/product/_component/view/productAdd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10200">
+          <caret line="879" column="5" selection-start-line="879" selection-start-column="5" selection-end-line="879" selection-end-column="5" />
+          <folding>
+            <element signature="e#489#700#1#PHP" />
+            <element signature="e#733#801#1#PHP" />
+            <element signature="e#851#1040#1#PHP" />
+            <element signature="e#1074#1239#1#PHP" />
+            <element signature="e#1274#1431#1#PHP" />
+            <element signature="e#1500#1782#1#PHP" />
+            <element signature="e#1884#2117#1#PHP" />
+            <element signature="e#2221#2541#1#PHP" />
+            <element signature="e#2611#2769#1#PHP" />
+            <element signature="e#3072#3543#0#PHP" />
+            <element signature="e#3743#4062#1#PHP" />
+            <element signature="e#4101#4137#0#PHP" />
+            <element signature="e#4526#4749#1#PHP" />
+            <element signature="e#4852#5197#1#PHP" />
+            <element signature="e#5236#5605#0#PHP" />
+            <element signature="e#5671#5965#1#PHP" />
+            <element signature="e#7877#18187#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dal/core/fileManager/_component/fileManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="15" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="15" />
+          <folding>
+            <element signature="n#uploadNewFile#0;n#fileManager#0;n#!!top" />
+            <element signature="n#makeFileUrl#0;n#fileManager#0;n#!!top" />
+            <element signature="n#getPathInfo#0;n#fileManager#0;n#!!top" />
+            <element signature="n#loadFile#0;n#fileManager#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dal/core/fileManager/_component/folderManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2822">
+          <caret line="166" selection-start-line="166" selection-end-line="166" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/service/core/fileManager/_component/model/fileMgr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="15" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/dal/shop/product/_component/productMapper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="106" column="7" selection-start-line="106" selection-start-column="7" selection-end-line="106" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="47" column="7" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ui/templates/frontend/digifirst/pages/parts/footerDetailsProduct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="57" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="57" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
+            <element signature="e#51#57#1" expanded="true" />
+            <element signature="e#163#169#0" expanded="true" />
+            <element signature="e#169#175#0" expanded="true" />
+            <element signature="e#175#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ui/templates/frontend/digifirst/pages/parts/headerDetailsProduct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="96" column="76" lean-forward="true" selection-start-line="96" selection-start-column="3" selection-end-line="96" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ui/templates/frontend/digifirst/pages/parts/headerDetailsProductDynamic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2346">
+          <caret line="138" column="3" selection-start-line="138" selection-start-column="3" selection-end-line="138" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ui/frontend/shop/product/_component/view/detailProductMobile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ui/frontend/shop/product/_component/productView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="1177" column="18" selection-start-line="1177" selection-start-column="16" selection-end-line="1177" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ui/frontend/shop/product/_component/view/amazingProducts.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ui/frontend/shop/product/_component/view/concessionProduct.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ui/frontend/shop/order/_component/orderController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="452" column="60" lean-forward="true" selection-start-line="452" selection-start-column="60" selection-end-line="452" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ui/frontend/shop/order/_component/orderView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="401" column="9" lean-forward="true" selection-start-line="401" selection-start-column="9" selection-end-line="401" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ui/frontend/shop/product/_component/view/detailProduct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="805" column="57" lean-forward="true" selection-start-line="805" selection-start-column="31" selection-end-line="805" selection-end-column="57" />
+          <folding>
+            <element signature="n#div#0;n#main#0;n#!!top" />
+            <element signature="n#ol#0;n#div#0;n#main#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#main#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#main#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#1;n#div#0;n#div#1;n#main#0;n#!!top" />
+            <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ui/frontend/shop/product/_component/view/detailProductDynamic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="642" column="73" selection-start-line="642" selection-start-column="60" selection-end-line="642" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ui/frontend/shop/product/_component/productController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="353" column="8" selection-start-line="353" selection-start-column="8" selection-end-line="353" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

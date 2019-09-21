@@ -1,0 +1,488 @@
+/**********************************************************************
+
+                        ---> General <---
+
+/**********************************************************************/
+@font-face{
+    font-family: 'Yekan';
+    src: url('../fonts/yekan.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/yekan.eot?#') format('eot'), /* IE6–8 */
+        url('../fonts/yekan.ttf') format('truetype'),
+        url('../fonts/yekan.otf') format('opentype'),
+        url('../fonts/yekan.svg') format('svg');
+}
+@font-face{
+    font-family: 'itr';
+    src: url('../fonts/yekan.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/yekan.eot?#') format('eot'), /* IE6–8 */
+        url('../fonts/yekan.ttf') format('truetype'),
+        url('../fonts/yekan.otf') format('opentype'),
+        url('../fonts/yekan.svg') format('svg');
+}
+
+
+
+*{
+    font-family: Yekan;
+    font-weight: normal  ;
+    font-size: 13px  ;
+    direction: rtl;
+
+}
+body
+{
+    background: #ececec;
+}
+/*
+fieldset {clear:both; width:100%; margin:10px 0;}
+
+fieldset{     border: 1px solid rgb(229, 229, 229); box-shadow: 0 0 5px 1px #eee;background: #fbfbfb}
+legend{
+    padding: 3px 10px;
+    background: white;
+    border:1px solid rgb(229, 229, 229);
+    border-radius: 7px;
+    font-size:18px;
+    box-shadow: 0 0 5px 1px #eee;;
+}
+*/
+input, textarea, select{   padding: 2px;}
+input[type=text], input[type=file], input[type=password], textarea, select
+{
+    border: 1px solid rgb(231, 231, 231);  
+
+}
+
+
+#layout-container{    width: 100%;    height: auto;}
+
+#content{    width: 100%;    height: auto;padding:10px; }
+
+.clear{ clear: both;}
+
+/**********************************************************************
+
+                        ---> Widgets <---
+
+/**********************************************************************/
+
+
+/** ---> Form <--- **/
+* {font: 13px Yekan}
+.formRow {margin:10px 0;}
+.full {
+    width: 100%;
+    float:right;
+}
+.part {
+    width: 70%;  
+    float:right;
+}
+.label { 
+    width:auto;
+    float:right;
+    min-width:28%;
+    height:30px;
+
+}
+
+.inline-radio{
+    width:15%; 
+    float:right;
+}
+.block-radio{
+    width:100%;
+    float:right;
+}
+input[type="radio"], input[type="checkbox"] {
+    width: auto;
+    float:right;
+    height:30px;
+}
+
+.formRow{width:100%; clear:both;}
+.col{width:32%; float: right; margin-left:1%;}
+
+label, input, textarea {  border-radius: 5px; border:0;}
+input, textarea, select { border:solid 1px rgb(231, 231, 231);}
+label {
+    height:30px;
+    line-height:30px;
+    padding:0 1% 0 1%;
+}
+fieldset {
+    width:auto;
+}
+
+
+.full { width:100%; }
+/*
+fieldset{    margin-top: 3px;    border: 1px solid rgb(239, 236, 236);}
+legend{
+    border: 1px solid rgb(240, 240, 240);
+    padding: 5px;
+    background-color: rgb(253, 253, 253);
+}
+input{
+}
+
+input, textarea, select{    width: 100%;    height: 100%;    padding: 2px;}
+
+input[type=text], input[type=file], input[type=password], textarea, select
+{
+    border: 1px solid rgb(236, 224, 224);    
+}
+
+input:disabled{    background-color: rgb(244, 244, 244);    }
+
+.form-line{    margin-top: 5px;    padding: 2px;    border: 1px solid rgb(245, 245, 245);}
+
+.form-line:last-of-type{    margin-bottom: 5px;}
+
+
+.form-line-auto label{  hard code 
+    line-height: 25px; 
+    height: 25px; 
+    display: block;
+}
+
+.form-line-auto{    height: auto;}
+
+.form-line-h1{    width: 100%;    height: 25px;}
+
+.form-line-h1 .form-inline-label label{    line-height: 25px; height: 100%;}
+.form-line-h2 .form-inline-label label{    line-height: 30px; height: 100%;}
+.form-line-h3 .form-inline-label label{    line-height: 35px; height: 100%;}
+
+.form-line-h1 .form-inline{    line-height: 25px; height: 100%;}
+.form-line-h2 .form-inline{    line-height: 30px; height: 100%;}
+.form-line-h3 .form-inline{    line-height: 35px; height: 100%;}
+
+.form-line-h2{    width: 100%;    height: 30px;}
+.form-line-h3{    width: 100%;    height: 35px;}
+
+.form-element{    height: 100%;    width: 70%;    float: right;}
+
+.form-inline-label{    width: 29%;    float: right;}
+
+.label-block{ min-width: 30%;   width:auto;}
+.element-block{ width:100%;}
+
+.form-inline-label label{
+    width: 100%;
+    display: block;
+    text-align: center;    
+    background-color: rgb(245, 245, 245);    
+}
+
+.form-inline{    display: inline;      margin-right: 2px;}
+.form-inline .form-inline-label{    border-right: 1px dotted rgb(211, 208, 208);}
+*/
+.full { width:100%; }
+
+/** ---> Breadcrumb <--- 
+
+
+/** ---> Dashboard <--- **/
+
+.dashboard{
+    /*    padding: 0px 10px 0px 10px;*/
+    list-style: none;
+    margin-top: 30px;
+}
+.dashboard-item{
+    color: red;
+}
+.dashboard .dashboard-item{ float: right; height: 115px !important; line-height: 25px; margin-right: 10px; width: 140px; }
+.dashboard .content-icon{ margin: 0 auto; display: block;}
+.dashboard .dashboard-item a{    }
+.dashboard .dashboard-item:hover > a{ color: green;}
+
+.dashboard .dashboard-item .content-title{text-align: center;}
+
+/** ---> Table <--- **/
+
+.actionButton
+{
+    cursor: pointer;
+}
+
+div.module table {
+    width: 100%; 
+    margin: 0 0 10px 0;
+    border-left: 1px solid #d9d9d9;
+    border-bottom: 1px solid #d9d9d9;
+}
+
+div.module table.tr {
+    border-collapse: separate;
+    border-right: 1px solid #aaaaaa;
+    border-left: 1px solid #aaaaaa;
+}
+
+div.module table th {
+    background-color: #eeeeee;
+    color: #444444;
+    padding: 5px;
+    text-align: right;
+    border-right: 1px solid #d9d9d9;
+    border-bottom: 1px solid #d9d9d9;
+    font:normal 18px Yekan;
+}
+
+div.module table td {
+    background-color: #ffffff;
+    padding: 5px;;
+    border-right: 1px solid #d9d9d9;
+}
+
+div.module table tr.odd td { /* You can use this style if you want to do zebra-colored tables with other technique than Table Sorter script used here */
+    background-color: #f1f5fa;
+}
+
+.table-apply {
+    width: 40%; float: right; text-align: right; margin-right: 10px;
+}
+
+.align-center
+{
+    text-align: center;
+}
+
+div.module h2 {
+    background:  url("../images/bg_bt_hover.png") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+    border-radius: 8px 8px 0 0;
+    color: white;
+    display: block;
+    font: 18px Yekan;
+    padding: 2px 18px 5px;
+    position: relative;
+    z-index: 200;
+    margin:0px;
+}
+.simple-radio input[type="radio"] {
+    display: none;
+}
+.simple-radio input[type="radio"] + label {
+    cursor: pointer;
+    display: block;
+    font-size: 13px;
+    margin-left: 15px;
+    position: relative;
+}
+
+.loader:before,
+.loader:after,
+.loader {
+    border-radius: 50%;
+    width: 2.5em;
+    height: 2.5em;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation: load7 1.8s infinite ease-in-out;
+    animation: load7 1.8s infinite ease-in-out;
+
+}
+.black_overlay
+{
+    display: none;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    z-index:10001;
+    -moz-opacity: 0.8;
+    opacity:.80;
+    filter: alpha(opacity=80);
+}
+.loading {
+    display: none;
+    position: fixed;
+    top: 25%;
+    left: 25%;
+    width: 50%;
+    height: 50%;
+    padding: 16px;
+    text-align: center;
+    z-index:10002;
+    overflow: auto;
+    color:white;
+}
+.spinner2 {
+    width: 30px;
+    height: 30px;
+    background-color: #fff;
+
+    margin: 20px auto;
+    -webkit-animation: rotateplane 1.2s infinite ease-in-out;
+    animation: rotateplane 1.2s infinite ease-in-out;
+}
+
+@-webkit-keyframes rotateplane {
+    0% { -webkit-transform: perspective(120px) }
+    50% { -webkit-transform: perspective(120px) rotateY(180deg) }
+    100% { -webkit-transform: perspective(120px) rotateY(180deg)  rotateX(180deg) }
+}
+
+@keyframes rotateplane {
+    0% { 
+        transform: perspective(120px) rotateX(0deg) rotateY(0deg);
+        -webkit-transform: perspective(120px) rotateX(0deg) rotateY(0deg) 
+    } 50% { 
+        transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg);
+        -webkit-transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg) 
+    } 100% { 
+        transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
+        -webkit-transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
+    }
+}
+.spinner {
+    margin: 40px auto 0;
+    width: 70px;
+    text-align: center;
+}
+
+.spinner > div {
+    width: 18px;
+    height: 18px;
+    background-color: #fff;
+
+    border-radius: 100%;
+    display: inline-block;
+    -webkit-animation: bouncedelay 1.4s infinite ease-in-out;
+    animation: bouncedelay 1.4s infinite ease-in-out;
+    /* Prevent first frame from flickering when animation starts */
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+
+.spinner .bounce1 {
+    -webkit-animation-delay: -0.32s;
+    animation-delay: -0.32s;
+}
+
+.spinner .bounce2 {
+    -webkit-animation-delay: -0.16s;
+    animation-delay: -0.16s;
+}
+
+@-webkit-keyframes bouncedelay {
+    0%, 80%, 100% { -webkit-transform: scale(0.0) }
+    40% { -webkit-transform: scale(1.0) }
+}
+
+@keyframes bouncedelay {
+    0%, 80%, 100% { 
+        transform: scale(0.0);
+        -webkit-transform: scale(0.0);
+    } 40% { 
+        transform: scale(1.0);
+        -webkit-transform: scale(1.0);
+    }
+}
+
+.dialog-header-error {
+    background-color: #d2322d;
+    color:white;
+}
+.dialog-header-success {
+    background-color: #439643;
+    color:white;
+}
+.dialog-header-form
+{
+    background-color:#357ebd;
+    color:white;
+}
+.dialog-header-warning
+{
+    background-color: #f0ad4e;
+  color: #fff;
+}
+
+
+.modal {
+    overflow: hidden;
+}
+.browser {
+    float: right;
+    height: 24px;
+    margin-left: 10px;
+  
+    width: 24px;
+}
+.browser.IE6 {
+    background: rgba(0, 0, 0, 0) url("../images/icons/internet_explorer.png") no-repeat scroll 0 0;
+}
+.browser.IE8 {
+    background: rgba(0, 0, 0, 0) url("../images/icons/internet_explorer_9.png") no-repeat scroll 0 0;
+}
+.browser.Firefox {
+    background: rgba(0, 0, 0, 0) url("../images/icons/firefox.png") no-repeat scroll 0 0;
+}
+.browser.Opera {
+    background: rgba(0, 0, 0, 0) url("../images/icons/opera.png") no-repeat scroll 0 0;
+}
+.browser.Chrome {
+    background: rgba(0, 0, 0, 0) url("../images/icons/chrome.png") no-repeat scroll 0 0;
+}
+.browser.Safari {
+    background: rgba(0, 0, 0, 0) url("../images/icons/safari.png") no-repeat scroll 0 0;
+}
+.browser.Netscape {
+    background: rgba(0, 0, 0, 0) url("../images/icons/netscape.png") no-repeat scroll 0 0;
+}
+.browser.Edge {
+    background: rgba(0, 0, 0, 0) url("../images/icons/edge.png") no-repeat scroll 0 0;
+}
+.os {
+    float: right;
+    height: 24px;
+    margin-right: 10px;
+    width: 24px;
+}
+.os.windows-7 {
+    background: rgba(0, 0, 0, 0) url("../images/icons/windows-7.png") no-repeat scroll 0 0;
+}
+.os.windows-xp {
+    background: rgba(0, 0, 0, 0) url("../images/icons/windows-xp.png") no-repeat scroll 0 0;
+}
+.os.windows-10 {
+    background: rgba(0, 0, 0, 0) url("../images/icons/windows10.png") no-repeat scroll 0 0;
+}
+.os.linux {
+    background: rgba(0, 0, 0, 0) url("../images/icons/linux.png") no-repeat scroll 0 0;
+}
+.os.mac {
+    background: rgba(0, 0, 0, 0) url("../images/icons/mac.png") no-repeat scroll 0 0;
+}
+.os.android {
+    background: rgba(0, 0, 0, 0) url("../images/icons/android.png") no-repeat scroll 0 0;
+}
+
+.desc {
+    background: #68b325 url("../images/arrow-down.png") no-repeat scroll left 5px top 11px;
+    border-radius: 3px;
+    color: white;
+    direction: ltr;
+    padding: 3px 6px 3px 15px;
+    width: auto;
+}
+.asc {
+    background: #c32f16 url("../images/arrow-up.png") no-repeat scroll left 5px top 11px;
+    border-radius: 3px;
+    color: white;
+    direction: ltr;
+    padding: 3px 6px 3px 15px;
+    width: auto;
+}
+.col-md-1{
+    float:right;
+}
+#box .pic{
+    display: inline-block;
+    float: right;
+}

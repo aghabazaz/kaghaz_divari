@@ -1,0 +1,27 @@
+<?php
+
+$lang = array(
+    'list' => 'لیست ',
+    'discountCodeList' => ' کدهای تخفیف',
+    'addDiscountCodeList' => 'اضافه کردن کد تخفیف',
+    'addDiscountCode' => 'اضافه کردن کد تخفیف',
+    'editDiscountCode' => 'ویرایش کردن کد تخفیف',
+    'saveNew' => 'ثبت کد تخفیف جدید',
+    'saveEdit' => 'ثبت کد تخفیف',
+    'select' => 'انتخاب کنید...',
+    'titleDiscountCodeList' => 'نام کاربری',
+    'titleDiscountCodeList2' => 'نام',
+    'discountCodeSave' => 'کد تخفیف جدید با موفقیت ایجاد شد.',
+    'date_register' => 'تاریخ ثبت نام',
+    'discountCodeSaveEdit' => 'ویرایش کد تخفیف با موفقیت انجام شد.',
+    'dbError' => 'اشکال در ارتباط با سرور!',
+    'title' => 'عنوان',
+    'credit_code' => 'کد اعتبارسنجی',
+    'price'=>'میزان تخفیف',
+    'credit_date'=>'تاریخ اعتبار',
+    'addDiscountCode'=>'اضافه کردن کد تخفیف',
+    'editDiscountCode'=>'ویرایش کردن کد تخفیف',
+    'type_discount'=>'نوع تخفیف',
+    'date_credit'=>'تاریخ اعتبار',
+    'type_use'         => 'نوع استفاده',
+);

@@ -1,0 +1,33 @@
+<?php
+
+$lang = array(
+    'list' => 'لیست ',
+    'basketOffList' => 'لیست کاربران عادی',
+    'addBasketOff' => 'اضافه کردن تخفیف سبد خرید',
+    'basketOffList' => ' تخفیفات سبد خرید',
+    'saveNew' => 'ثبت تخفیف سبد خرید',
+    'saveEdit' => 'ثبت تخفیف سبد خرید',
+    'select' => 'انتخاب کنید...',
+    'title' => 'عنوان تخفیف',
+    'titleBasketOffList2' => 'نام',
+    'basketOffSave' => 'تخفیف سبد خرید با موفقیت ایجاد شد.',
+    'date_register' => 'تاریخ ثبت نام',
+    'basketOffSaveEdit' => 'ویرایش تخفیف سبد خرید با موفقیت انجام شد.',
+    'dbError' => 'اشکال در ارتباط با سرور!',
+    'editBasketOff' => 'ویرایش تخفیف سبد خرید',
+    'addBasketOff' => 'اضافه کردن تخفیف سبد خرید',
+    'descBasketOffList' => 'توضیحات کاربر',
+    'mobileBasketOff' => 'تلفن',
+    'emailBasketOff' => 'ایمیل',
+    'passBasketOff' => 'کلمه عبور',
+    'pass_reMember' => 'تکرار کلمه عبور',
+    'addressMember' => 'آدرس',
+    'typeUser' => 'نوع کاربر',
+    'statusAccount' => 'وضعیت حساب',
+    'price' => 'مبلغ خرید محصول',
+    'discount' => 'میزان تخفیف',
+    'date' => 'میزان تخفیف',
+    'type_discount'=>'نوع تخفیف',
+    'date_credit'=>'تاریخ اعتبار کد تخفیف',
+    'date_credit'=>'تاریخ اعتبار کد تخفیف'
+);

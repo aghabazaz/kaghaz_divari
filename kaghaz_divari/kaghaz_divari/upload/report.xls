@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+<Styles>
+<Style ss:ID="sDT"><NumberFormat ss:Format="Short Date"/></Style>
+</Styles>
+<Worksheet ss:Name="Sheet1">
+    <Table>
+        <Row>
+            <Cell><Data ss:Type="String">عنوان محصول</Data></Cell>
+            <Cell><Data ss:Type="String">عنوان کامل</Data></Cell>
+            <Cell><Data ss:Type="String">نام خریدار</Data></Cell>
+            <Cell><Data ss:Type="String">تاریخ خرید</Data></Cell>
+        </Row>
+        <Row>
+            <Cell><Data ss:Type="String">ماشین لباس شویی</Data></Cell>
+            <Cell><Data ss:Type="String"> Samsung F14SIH Washing Machine - 8 Kg </Data></Cell>
+            <Cell><Data ss:Type="String">امیر مهرانفر</Data></Cell>
+            <Cell><Data ss:Type="String">1395/10/26</Data></Cell>
+        </Row>
+        <Row>
+            <Cell><Data ss:Type="String">ماشین لباس شویی</Data></Cell>
+            <Cell><Data ss:Type="String"> Samsung F14SIH Washing Machine - 8 Kg </Data></Cell>
+            <Cell><Data ss:Type="String">امیر مهرانفر</Data></Cell>
+            <Cell><Data ss:Type="String">1395/10/26</Data></Cell>
+        </Row>
+        <Row>
+            <Cell><Data ss:Type="String">ماشین لباس شویی</Data></Cell>
+            <Cell><Data ss:Type="String"> Samsung F14SIH Washing Machine - 8 Kg </Data></Cell>
+            <Cell><Data ss:Type="String">امیر مهرانفر</Data></Cell>
+            <Cell><Data ss:Type="String">1395/10/26</Data></Cell>
+        </Row>
+        <Row>
+            <Cell><Data ss:Type="String">ماشین لباس شویی</Data></Cell>
+            <Cell><Data ss:Type="String"> Samsung F14SIH Washing Machine - 8 Kg </Data></Cell>
+            <Cell><Data ss:Type="String">امیر مهرانفر</Data></Cell>
+            <Cell><Data ss:Type="String">1395/10/26</Data></Cell>
+        </Row>
+        <Row>
+            <Cell><Data ss:Type="String">ماشین لباس شویی</Data></Cell>
+            <Cell><Data ss:Type="String"> Samsung F14SIH Washing Machine - 8 Kg </Data></Cell>
+            <Cell><Data ss:Type="String">امیر مهرانفر</Data></Cell>
+            <Cell><Data ss:Type="String">1395/10/26</Data></Cell>
+        </Row>
+    </Table>
+</Worksheet>
+</Workbook>

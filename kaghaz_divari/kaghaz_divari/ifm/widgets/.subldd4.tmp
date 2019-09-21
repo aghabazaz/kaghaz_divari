@@ -1,0 +1,157 @@
+<?php
+
+namespace f\w ;
+
+class form extends \f\widget
+{
+
+    private $formMarkup ;
+
+    public function __construct()
+    {
+        $this->formMarkup = '' ;
+    }
+
+    public function begin($params)
+    {
+        $attr = self::attr($params);
+        $this->formMarkup .= "<form $attr>";
+    }
+
+    public function flush()
+    {
+        $this->formMarkup .= "</form>" ;
+        return $this->formMarkup ;
+    }
+
+    public function rowStart($style = array())
+    {
+        return self::createMarkup('div', '', 'row', $style, '', false);
+    }
+
+    public function rowEnd()
+    {
+        $this->formMarkup .= '</div>';
+    }
+
+    public function colStart($style = array())
+    {
+        return self::createMarkup('div', '', 'col', $style, '', false);
+    }
+
+    public function colEnd()
+    {
+        $this->formMarkup .= '</div>';
+    }
+
+    #____(Controls)____#
+
+    public function fieldsetStart($options)
+    {
+        $attr = self::attr($options);
+        $this->formMarkup .= "<fieldset $attr>";
+
+        $legend = isset($options['legend']) ? $options['legend'] : false;
+        if ($legend)
+        {
+            $legendAttr = self::attr($legend);
+            $legendText = isset($legend['text']) ? $legend['text'] : '';
+            $this->formMarkup .= "<legend $legendAttr></legend>";
+        }
+    }
+
+    public function fieldsetEnd()
+    {
+        $this->formMarkup .= '</fieldset>';
+    }
+
+    public function input($options)
+    {
+        ####    block start ####
+
+        $type = isset($options['block']) ? 'block' : 'inline';
+        $block = isset($options[$type]) ? $options[$type] : array();
+
+        if($type == 'inline')
+            $this->formMarkup .= self::colStart($block);
+        else
+            $this->formMarkup .= self::rowStart($block);
+
+        ####    Body    ####
+
+        $htmlOptions = isset($options['htmlOptions']) ? $options['htmlOptions'] : array();
+        $style = isset($options['style']) ? $options['style'] : array();
+        $label = isset($options['label']) ? $options['label'] : false;
+
+        $inputMarkup = self::createMarkup('input', '', '', $style, $htmlOptions, false);
+        $this->formMarkup .= self::renderItem($inputMarkup, $label);
+
+        ####    block end   ####
+
+        if($type == 'inline')
+            $this->formMarkup .= self::colEnd();
+        else
+            $this->formMarkup .= self::rowEnd();
+    }
+
+    #____(PRIVATE FUNCTIONS)____#
+
+    private function arrayToAttr($array)
+    {
+        $attr = '';
+        foreach($array as $att => $value)
+            $attr .= "$att=\"$value\" ";
+        return $attr;
+    }
+
+    private function arrayToStyle($array)
+    {
+        if(count($array) != 0)
+        {
+            $style = 'style="';
+            foreach($array as $attr => $value)
+                $style .= "$attr: $value; ";
+            $style .= '"';
+            return $style;
+        }
+        else
+            return '';
+    }
+
+    private function renderItem($element, $label = false)
+    {
+        $block = $label && isset($label['block']) && $label['block'] ? true : false;
+        $markup = '';
+        $class = !$block && $label ? 'part' : 'full';
+
+        if($label)
+        {
+            $labelStyle = isset($label['style']) ? $label['style'] : array();
+            $labelHtmlOptions = isset($label['htmlOptions']) ? $label['htmlOptions'] : array();
+
+            $markup .= self::createMarkup('label', $label['text'], 'label', $labelStyle, $labelHtmlOptions);
+        }
+
+        $markup .= self::createMarkup('div', $element, $class);
+        return $markup;
+    }
+
+    private function createMarkup($tagName, $content, $class = '', $style = '', $htmlOptions = '', $closeItem = true)
+    {
+        $closeTag = $closeItem ? "</$tagName>" : '';
+
+        $htmlOptions = $htmlOptions ? self::arrayToAttr($htmlOptions) : '';
+        $style = $style ? self::arrayToStyle($style) : '';
+
+        return "<$tagName class=\"$class\" $style $htmlOptions>$content$closeTag";
+    }
+
+    public function attr($params)
+    {
+        $styleArray = isset($params['style']) ? $params['style'] : array();
+        $htmlOptionsArray = isset($params['htmlOptions']) ? $params['htmlOptions'] : array();
+        $str = self::arrayToStyle($styleArray);
+        $str .= ' '.self::arrayToAttr($htmlOptionsArray);
+        return $str;
+    }
+}

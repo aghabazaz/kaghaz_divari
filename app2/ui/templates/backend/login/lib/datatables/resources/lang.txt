@@ -1,0 +1,18 @@
+{
+	"processing": "لطفا منتظر بمانید...",
+	"lengthMenu": "نمایش _MENU_ سطر در صفحه",
+	"zeroRecords": "هیچ نتیجه ای یافت نشد",
+	"info": "صفحه _PAGE_ از _PAGES_",
+	"infoEmpty": "داده ای وجود ندارد",
+	"sEmptyTable": "داده ای ثبت نشده",
+	"infoFiltered": "(تعداد کل _MAX_ )",
+	"infoPostFix": "",
+	"search": "جستجو ",
+	"url": "",
+	"paginate": {
+		"first":    "اول",
+		"previous": "قبلی",
+		"next":     "بعدی",
+		"last":     "آخر"
+	}
+}

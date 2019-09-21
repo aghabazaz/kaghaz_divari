@@ -1,0 +1,143 @@
+ol, ul, li {
+    list-style: none;
+}
+/***** slider *****/
+.slider-wrapper-slider {
+    width:100%;
+    font-size: 12px;
+    margin-bottom:15px;
+    background:#fff;
+    overflow:hidden;
+    position:relative;
+    z-index:1;
+    border-radius: 0px;
+}
+.slider {
+    width:100%;
+    background: #eee;
+
+}
+.slider-wrapper-slider img{
+    position: absolute;
+    width:100%;
+    float: right;
+    max-height: 100%;
+
+}
+.pagination_slider {
+    width: 100%;
+    position:absolute;
+    bottom:-16px;
+    z-index:99;  
+}
+.pagination_slider li {
+    float:left;
+    width: 20%; 
+    height: 60px;
+    opacity: 0.7;
+    background: #000; /* Old browsers */
+    color: #555; 
+}   
+.pagination_slider .current:before,
+.pagination_slider li:hover:before {
+    background: rgba(0, 0, 0, 0) url("../img/slider/arrow-top.png") repeat scroll 0 0;
+    content: "";
+    height: 11px;
+    margin-right: 9%;
+    position: absolute;
+    text-align: center;
+    bottom: 60px;
+    width: 21px;
+}
+
+.backwardSlider,.forwardSlider{
+    opacity: 0 ;
+}
+.pagination_slider a {
+    display:block;
+    text-align:center;
+    font-size:13px;
+    line-height:45px;
+    color:#fff;
+    text-decoration:none;
+
+}
+.pagination_slider li a {
+    background:none;
+    color: #fff;
+}
+
+a:hover, a:active, a:focus {
+   outline: 0;
+}
+.pagination_slider .current,
+.pagination_slider li:hover a {
+    background-position:left top; 
+    background-color:#fff;
+    color: #000;
+    border-top: 0px solid #444;
+    height: 58px;
+    display : inherit;	
+}
+.pagination_slider .current a {
+    cursor:default;
+    color: #000;
+}
+/*
+li.current > img.span {
+    display: inherit !important;
+}
+/*.span{
+position: absolute;
+width: 25px !important;
+left : 11% !important;
+height: 10% !important;
+
+}*/
+.prevSlider {
+    position: absolute;
+    bottom: 50%;
+    left: 20px;
+    z-index: 1000;
+}
+.nextSlider{
+    position: absolute;
+    bottom: 50%;
+    right: 20px;
+    z-index: 1000;
+}
+.nextSlider:after {
+    background: rgba(0, 0, 0, 0) url("../img/slider/arrow-top.png") repeat scroll 0 0;
+    position: absolute;
+    bottom: 50%;
+    right: 20px;
+    z-index: 1000;
+}
+.backwardSlider {
+    width: 19px;
+    height: 33px;
+    background-image: url("../img/slider/arrow-2.png");
+    position: absolute;
+    top: 50%;
+    margin-top: -33px;
+    z-index: 100;
+}
+
+.forwardSlider{
+    width: 19px;
+    height: 33px;
+    background-image: url("../img/slider/arrow-2.png");
+    position: absolute;
+    top: 50%;
+    margin-top: -33px;
+    background-position: 57px 33px;
+    z-index: 100;
+}
+@media screen and (max-width: 768px) {
+    .pagination_slider {
+        display: none;
+    }
+    .hover_arrow{
+        display:block !important;
+    }
+}
